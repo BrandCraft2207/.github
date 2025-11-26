@@ -73,15 +73,11 @@ Tu negocio → **más moderno, más confiable, más poderoso.**
 🌟 Estamos construyendo experiencias digitales que redefinen marcas.  
 Explora nuestros repositorios, interfaces, diseños y proyectos.
 
-> Si deseas colaborar, mejorar un proyecto o proponer algo:  
-👉 **Abre un Issue profesional aquí:**  
-[🔧 Crear un Issue](../../issues)
-
 ---
 
 # 📞 **Contacto Comercial**
 
-📧 **Email:** tuemail@brancraft.com  
+📧 **Email:** bandcraft.digital@gmail.com
 📲 **WhatsApp:** https://wa.me/TU_NUMERO  
 
 ---
