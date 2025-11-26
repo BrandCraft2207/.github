@@ -27,7 +27,7 @@ Tu negocio → **más moderno, más confiable, más poderoso.**
 ---
 
 ## 🎥 **Video de Presentación**
-> *Haz clic para ver nuestra intro futurista*
+
 
 [![Ver Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
