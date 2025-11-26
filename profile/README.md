@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/1350x350/0A0F1F/00E5FF?text=BRANCRAFT+%7C+Futuristic+Digital+Agency" alt="BranCraft Banner" style="border-radius: 14px;"/>
+<img src="https://raw.githubusercontent.com/BrandCraft2207/.github/refs/heads/main/profile/banner.png" alt="BranCraft Banner" style="border-radius: 14px;"/>
 
 ---
 
